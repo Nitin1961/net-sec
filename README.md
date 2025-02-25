@@ -1,11 +1,4 @@
-# CodeAlpha-Internship
-Cyber Security Internship @ CodeAlpha January 2024 <br>
-Offer Letter - [CodeAlpha Darisi Priyatham](CodeAlpha-Darisi_Priyatham.pdf)<br>
-Certificate - [Darisi Priyatham](https://drive.google.com/file/d/1kAAKORVCqSS995q-VugbAfNJNPG5Xnd9)
-
-### CYBERSECURITY INTERNSHIP TASKS
-CodeAlpha offers internship opportunities in the field of cyber security, providing you with a chance to become a skilled and hands-on cyber security professional.<br>
-We will provide you projects, allowing  you to tackle real-world cyber security challenges and apply your knowledge effectively.
+# Net-Sec
 
 #### TASK 1 - **Basic Network Sniffer**
 Build a network sniffer in Python that captures and analyzes network traffic.<br> 
@@ -21,4 +14,8 @@ Use tools like static code analyzers or manual code review.
 
 #### TASK 4 - **Network Intrusion Detection System**
 Develop a network-based intrusion detection system using tools like Snort or Suricata.<br> 
-Set up rules and alerts to identify and respond to suspicious network activity. You can even visualize the detected attacks.
+Set up rules and alerts to identify and respond to suspicious network activity. You can even visualize the detected attacks. <br>
+
+Cyber Security Internship @ CodeAlpha January 2024 <br>
+Offer Letter - [CodeAlpha Darisi Priyatham](CodeAlpha-Darisi_Priyatham.pdf)<br>
+Certificate - [Darisi Priyatham](https://drive.google.com/file/d/1kAAKORVCqSS995q-VugbAfNJNPG5Xnd9)
